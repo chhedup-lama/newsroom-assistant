@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.env
+
+# Node / React
+UI/node_modules/
+UI/dist/
+UI/.vite
+
+# OS / tooling
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE metadata
+.idea/
+.vscode/

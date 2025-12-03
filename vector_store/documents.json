@@ -1,0 +1,7 @@
+[
+  {
+    "id": "047b1518-98aa-43c3-bbfb-cc04eaad8268",
+    "filename": "test_knowledge_base.xlsx",
+    "text": "id,title,content 1,FastAPI Introduction,\"FastAPI is a modern, fast web framework for building APIs with Python based on standard type hints.\" 2,FAISS Overview,\"FAISS is a library for efficient similarity search and clustering of dense vectors, useful for vector databases.\" 3,OpenAI Embeddings,OpenAI embeddings convert text into numerical vectors that can be used for semantic search in vector stores. 4,RAG Pattern,Retrieval-Augmented Generation combines a retriever over external knowledge with a generator model like GPT. 5,Project Setup Tips,\"Use virtual environments, pin your dependencies, and keep your FastAPI and React projects separated by responsibility.\" 6,Excel File Usage,\"This Excel file is used to test file upload, text extraction, embedding creation, and FAISS indexing in your API.\""
+  }
+]

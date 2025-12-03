@@ -1,0 +1,8 @@
+fastapi==0.111.1
+uvicorn[standard]==0.30.1
+openai==1.35.3
+faiss-cpu
+pandas
+numpy
+python-dotenv
+httpx<0.28
