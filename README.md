@@ -1,4 +1,4 @@
-# Cheddup AI Workspace
+# Chhedup AI Workspace
 
 Bring your documents, get trusted answers. Cheddup pairs a FastAPI backend for ingestion and vector search with a React UI so teams can upload knowledge, query it conversationally, and cite the sources every time.
 
