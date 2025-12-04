@@ -131,7 +131,7 @@ export default function App() {
     }
     return {
       title: "Centralize documents. Answer anything.",
-      body: "Upload contracts, financials, research, or playbooks. Cheddup makes them searchable with instant chat."
+      body: "Upload contracts, financials, research, or playbooks. Chhedup makes them searchable with instant chat."
     };
   }, [location.pathname]);
 
@@ -140,7 +140,7 @@ export default function App() {
       <div className="gradient" />
       <header className="app-header">
         <Link to="/" className="logo">
-          cheddup
+          Chhedup
         </Link>
         <nav>
           <NavLink to="/upload">Upload</NavLink>
@@ -171,7 +171,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="app-footer">
-        <p>© {new Date().getFullYear()} cheddup. Knowledge infrastructure for lean teams.</p>
+        <p>© {new Date().getFullYear()} Chhedup. Knowledge infrastructure for lean teams.</p>
         <div className="footer-links">
           <Link to="/upload">Upload</Link>
           <Link to="/chat">Chat</Link>
