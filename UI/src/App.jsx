@@ -140,7 +140,7 @@ export default function App() {
       <div className="gradient" />
       <header className="app-header">
         <Link to="/" className="logo">
-          Chhedup
+          Chhedup Lama's workspace
         </Link>
         <nav>
           <NavLink to="/upload">Upload</NavLink>
